@@ -1,92 +1,104 @@
-# Hi, I'm Tooba Saleem 👋
+<div align="center">
 
-### Full Stack MERN Developer | Building Fast, Scalable & User-Centered Web Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,FCE4EC,E1BEE7&height=220&section=header&text=Tooba%20Saleem&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-I’m a passionate Full Stack MERN Developer who enjoys turning ideas into modern, responsive, and high-performing web applications. I specialize in building intuitive user interfaces with React and developing reliable backend solutions using Node.js, Express, and MongoDB.
+# Hi, I'm Tooba
 
-I believe that great software is more than just working code. It should be clean, maintainable, accessible, and provide a seamless user experience. Every project I build is an opportunity to improve my skills, solve meaningful problems, and create products that deliver real value.
+### Full Stack MERN Developer
 
-I'm always learning, exploring new technologies, and challenging myself with projects that help me grow as a developer. Whether I'm designing a polished frontend or building secure backend APIs, I enjoy every step of the development process.
+Building modern web experiences with clean code and thoughtful design.
 
----
+**React • Node.js • Express • MongoDB • JavaScript**
 
-## 🚀 What I Do
-
-* Build responsive and modern web applications
-* Develop full stack applications using the MERN Stack
-* Create REST APIs with Node.js & Express
-* Design clean, user-friendly, and accessible interfaces
-* Optimize performance and write maintainable code
-* Continuously learn and implement modern web technologies
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I'm a Full Stack MERN Developer passionate about building modern, responsive, and user-focused web applications.
+
+I enjoy creating elegant user interfaces with React and developing scalable backend solutions using Node.js, Express, and MongoDB.
+
+I'm always learning, improving, and exploring new technologies to build better digital experiences.
+
+---
+
+## Currently
+
+• Building Full Stack MERN Projects
+
+• Learning Advanced Backend Development
+
+• Exploring UI/UX Best Practices
+
+• Improving Every Day
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react"/>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 
 ---
 
-## 🌱 Currently Exploring
+## What I Enjoy
 
-* Advanced MERN Architecture
-* Authentication & Authorization
-* Performance Optimization
-* REST API Design
-* Clean Code & Best Practices
+• Building clean and responsive user interfaces
 
----
+• Developing full stack applications
 
-## 📌 Featured Work
+• Learning new technologies
 
-* 💼 Professional Portfolio
-* 🛒 Full Stack E-Commerce Application
-* 🏢 Business & Corporate Websites
-* 🎨 Modern Landing Pages & Dashboards
+• Writing maintainable code
+
+• Turning ideas into real products
 
 ---
 
-## 📫 Let's Connect
+## A Few Fun Facts
 
-🌐 **Portfolio**
-**https://toobasaleem.vercel.app**
+• I can spend hours perfecting small UI details.
 
-💼 **LinkedIn**
-**https://www.linkedin.com/in/tooba-saleem-51491931a**
+• Coffee and music are part of almost every coding session.
 
-💻 **GitHub**
-**https://github.com/Tooba-Saleem22**
+• I believe every project teaches something valuable.
 
----
-
-## ✨ Beyond Coding
-
-* ☕ Coffee and clean code make a great combination.
-* 🎨 I enjoy creating interfaces that feel simple, elegant, and intuitive.
-* 🌙 Late-night coding sessions are often my most productive.
-* 📚 I believe every project is a chance to learn something new.
-* 🚀 My goal is to build software that people genuinely enjoy using.
+• Clean code is just as important as beautiful design.
 
 ---
 
-> **"Code with purpose. Design with empathy. Never stop learning."**
+> *"Create with purpose. Build with passion. Keep learning."*
+
+---
+
+## Connect
+
+**Portfolio**  
+https://toobasaleem.vercel.app
+
+**LinkedIn**  
+https://www.linkedin.com/in/tooba-saleem-51491931a
+
+**GitHub**  
+https://github.com/Tooba-Saleem22
+
+---
+
+<div align="center">
+
+Thank you for visiting my profile.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,FCE4EC,E1BEE7&height=120&section=footer"/>
+
+</div>
