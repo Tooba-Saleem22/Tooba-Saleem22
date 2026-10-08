@@ -1,104 +1,167 @@
-<div align="center">
+# Hi there, I'm Tooba Saleem 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,FCE4EC,E1BEE7&height=220&section=header&text=Tooba%20Saleem&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+### Web Developer | WordPress • React.js • MERN Stack
 
-# Hi, I'm Tooba
-
-### Full Stack MERN Developer
-
-Building modern web experiences with clean code and thoughtful design.
-
-**React • Node.js • Express • MongoDB • JavaScript**
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-toobasaleem.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://toobasaleem.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tooba%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tooba-saleem-51491931a)
+[![GitHub](https://img.shields.io/badge/GitHub-Tooba--Saleem22-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tooba-Saleem22)
 
 ---
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E29B9B&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+build+responsive+web+experiences;WordPress+%7C+React.js+%7C+MERN+Stack" alt="Typing SVG" />
+</p>
 
-I'm a Full Stack MERN Developer passionate about building modern, responsive, and user-focused web applications.
-
-I enjoy creating elegant user interfaces with React and developing scalable backend solutions using Node.js, Express, and MongoDB.
-
-I'm always learning, improving, and exploring new technologies to build better digital experiences.
-
----
-
-## Currently
-
-• Building Full Stack MERN Projects
-
-• Learning Advanced Backend Development
-
-• Exploring UI/UX Best Practices
-
-• Improving Every Day
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="450" alt="Developer working">
+</p>
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
 
-### Frontend
+Hi! I'm **Tooba Saleem**, a Computer Science graduate and Web Developer with **1.5+ years of freelance experience** building websites and web applications.
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react"/>
+I enjoy turning ideas and designs into clean, responsive, and user-friendly digital experiences.
 
-### Backend
+💻 I work with **WordPress, React.js, JavaScript, and the MERN Stack**.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+🌱 Currently focused on improving my full-stack development skills and building real-world projects.
+
+📍 Based in Pakistan and open to remote web development opportunities.
+
+---
+
+## 🧠 What I Do
+
+### 🎨 Frontend Development
+
+Build responsive and user-friendly interfaces using **React.js, JavaScript, HTML5, CSS3, Bootstrap, and Tailwind CSS**.
+
+### 🌐 WordPress Development
+
+Create professional websites using **WordPress and Elementor**, with a focus on responsive layouts and user experience.
+
+### ⚙️ Full-Stack Development
+
+Build web applications using **MongoDB, Express.js, React.js, and Node.js**.
+
+### 🔗 API Integration
+
+Work with **REST APIs and third-party services** to add real-world functionality to web applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### UI & Styling
+
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+</p>
+
+### CMS & Design
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+</p>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## What I Enjoy
+## 🚀 Featured Projects
 
-• Building clean and responsive user interfaces
+### 🔹 Quizzi Academia
 
-• Developing full stack applications
+A full-stack e-learning platform featuring interactive quizzes, personalized YouTube recommendations, an AI learning assistant, admin dashboard, and payment integration.
 
-• Learning new technologies
+🔗 [View Project](https://toobasaleem.vercel.app/quizzi-academia)
 
-• Writing maintainable code
+### 🔹 Thedesignspark
 
-• Turning ideas into real products
+A modern React-based website focused on clean layouts, visual hierarchy, and a smooth user experience.
 
----
+🔗 [View Portfolio](https://toobasaleem.vercel.app/Thedesignspark)
 
-## A Few Fun Facts
+### 🔹 Etec
 
-• I can spend hours perfecting small UI details.
+A custom e-commerce frontend built with React, featuring reusable components and a responsive shopping experience.
 
-• Coffee and music are part of almost every coding session.
+🔗 [View Portfolio](https://toobasaleem.vercel.app/Etec)
 
-• I believe every project teaches something valuable.
+### 🔹 Western Eagle Security
 
-• Clean code is just as important as beautiful design.
+A professional security services website designed to present protection solutions across desktop and mobile devices.
 
----
+🔗 [View Portfolio](https://toobasaleem.vercel.app/WES)
 
-> *"Create with purpose. Build with passion. Keep learning."*
 
----
 
-## Connect
-
-**Portfolio**  
-https://toobasaleem.vercel.app
-
-**LinkedIn**  
-https://www.linkedin.com/in/tooba-saleem-51491931a
-
-**GitHub**  
-https://github.com/Tooba-Saleem22
 
 ---
 
-<div align="center">
+## 🌐 My Portfolio
 
-Thank you for visiting my profile.
+<p align="center">
+  <a href="https://toobasaleem.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-E29B9B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,FCE4EC,E1BEE7&height=120&section=footer"/>
+---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tooba-Saleem22&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tooba-Saleem22&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Profile Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tooba-Saleem22&label=Profile%20Views&color=E29B9B&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to connecting with developers, clients, and teams working on interesting web projects.
+
+📧 **Email:** toobasaleem190@gmail.com
+
+💼 **LinkedIn:** [Tooba Saleem](https://linkedin.com/in/tooba-saleem-51491931a)
+
+🌐 **Portfolio:** [toobasaleem.vercel.app](https://toobasaleem.vercel.app/)
+
+🐙 **GitHub:** [Tooba-Saleem22](https://github.com/Tooba-Saleem22)
