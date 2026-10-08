@@ -1,4 +1,4 @@
-# Hi there, I'm Tooba Saleem 👋
+# Hi there, I'm Tooba Saleem 
 
 ### Web Developer | WordPress • React.js • MERN Stack
 
@@ -18,41 +18,41 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi! I'm **Tooba Saleem**, a Computer Science graduate and Web Developer with **1.5+ years of freelance experience** building websites and web applications.
 
 I enjoy turning ideas and designs into clean, responsive, and user-friendly digital experiences.
 
-💻 I work with **WordPress, React.js, JavaScript, and the MERN Stack**.
+ I work with **WordPress, React.js, JavaScript, and the MERN Stack**.
 
-🌱 Currently focused on improving my full-stack development skills and building real-world projects.
+ Currently focused on improving my full-stack development skills and building real-world projects.
 
 📍 Based in Pakistan and open to remote web development opportunities.
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 Build responsive and user-friendly interfaces using **React.js, JavaScript, HTML5, CSS3, Bootstrap, and Tailwind CSS**.
 
-### 🌐 WordPress Development
+###  WordPress Development
 
 Create professional websites using **WordPress and Elementor**, with a focus on responsive layouts and user experience.
 
-### ⚙️ Full-Stack Development
+###  Full-Stack Development
 
 Build web applications using **MongoDB, Express.js, React.js, and Node.js**.
 
-### 🔗 API Integration
+###  API Integration
 
 Work with **REST APIs and third-party services** to add real-world functionality to web applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages & Frameworks
 
@@ -93,7 +93,7 @@ Work with **REST APIs and third-party services** to add real-world functionality
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Quizzi Academia
 
@@ -124,7 +124,7 @@ A professional security services website designed to present protection solution
 
 ---
 
-## 🌐 My Portfolio
+##  My Portfolio
 
 <p align="center">
   <a href="https://toobasaleem.vercel.app/">
@@ -134,7 +134,7 @@ A professional security services website designed to present protection solution
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tooba-Saleem22&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -146,15 +146,8 @@ A professional security services website designed to present protection solution
 
 ---
 
-## 📈 Profile Insights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tooba-Saleem22&label=Profile%20Views&color=E29B9B&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to connecting with developers, clients, and teams working on interesting web projects.
 
