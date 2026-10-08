@@ -105,7 +105,7 @@ A full-stack e-learning platform featuring interactive quizzes, personalized You
 
 A modern React-based website focused on clean layouts, visual hierarchy, and a smooth user experience.
 
-🔗 [View Portfolio](https://toobasaleem.vercel.app/Thedesignspark)
+🔗 [View Portfolio]([https://thedesignsparks.com/])
 
 ### 🔹 Etec
 
@@ -117,7 +117,7 @@ A custom e-commerce frontend built with React, featuring reusable components and
 
 A professional security services website designed to present protection solutions across desktop and mobile devices.
 
-🔗 [View Portfolio](https://toobasaleem.vercel.app/WES)
+🔗 [View Portfolio](https://westerneaglesecurity.ca/)
 
 
 
